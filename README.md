@@ -71,3 +71,5 @@ _first you will need to clone the repo_
 _you just need to add any endpoints onto that url_ 
 
 you can test this on something like post man do a get request for your-endpoint/stagename/lambda-endpoint
+
+**additional steps would be to add a database base like aws rds as its a zipped file within s3 so the database wouldnt be accessable**
